@@ -4,8 +4,8 @@ The purpose of this project was to practice extracting and manipulating data fro
 
 ![average precipitation](Images/avg_precip.png)
 
-![precipitation](https://github.com/mfineman/SQLalchemy_climate_project/Images/precipitation.png)
+![precipitation](Images/precipitation.png)
 
-![daily normal temps](https://github.com/mfineman/SQLalchemy_climate_project/Images/daily_normals.png)
+![daily normal temps](Images/daily_normals.png)
 
-![station temps](https://github.com/mfineman/SQLalchemy_climate_project/Images/station-histogram.png)
+![station temps](Images/station-histogram.png)
